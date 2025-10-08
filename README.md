@@ -53,3 +53,12 @@ java Main
 
 
 Imagenes 
+
+<img width="729" height="549" alt="image" src="https://github.com/user-attachments/assets/9887020b-6eb1-432a-85bc-f3c912912760" />
+
+
+CONTRIBUYENTES
+Juan Felipe Pulgarin Garcia
+
+Juan Santiago Álvarez Hernández
+
